@@ -1,4 +1,5 @@
--- demo
+-- demo from 
+
 use role ACCOUNTADMIN;
 CREATE OR REPLACE DATABASE DEMO_DB;
 
